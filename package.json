@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index"
+    "start": "node index.js",
+    "worker": "node index.js",
+    "test": "node index.js"
   },
   "keywords": [],
   "author": "",
